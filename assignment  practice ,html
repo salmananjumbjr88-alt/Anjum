@@ -1,0 +1,40 @@
+<html>
+  <head>
+    <title>My Page</title>
+  </head>
+  <body>
+    <h1>Welcome to My Page</h1>
+    <p>This is a simple paragraph.</p>
+    <h1>FAQs</h1>
+<details><summary>What is your expertise?</summary><p>I am expert in HTML and learning CSS/JS.</p></details>
+<details><summary>How to contact you?</summary><p>Call me at 03030259474</p></details>
+<p hidden>This is hidden content for assignment.</p>
+</body>
+</html>
+7. template.html
+<!DOCTYPE html>
+<html>
+<head><meta charset="UTF-8"><title>Template Demo</title></head>
+<body>
+<h1>Template & Noscript Demo</h1>
+<template id="myTemplate"><p>Hello Salman Anjum, this is from template tag.</p></template>
+<noscript><p>Your browser does not support JavaScript!</p></noscript>
+</body>
+</html>
+8. sitemap.html
+<!DOCTYPE html>
+<html>
+<head><meta charset="UTF-8"><title>Sitemap</title></head>
+<body>
+<h1>Sitemap - Salman Anjum Portfolio</h1>
+<ul>
+<li><a href="index.html">Home</a></li>
+<li><a href="about.html">About Me</a></li>
+<li><a href="skills.html">Skills</a></li>
+<li><a href="portfolio.html">Projects</a></li>
+<li><a href="contact.html">Contact</a></li>
+<li><a href="faq.html">FAQs</a></li>
+<li><a href="template.html">Template Page</a></li>
+</ul>
+  </body>
+</html>
